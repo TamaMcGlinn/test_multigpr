@@ -1,0 +1,4 @@
+
+aggregate project test_multigpr is
+   for Project_Files use ("one.gpr", "two.gpr");
+end test_multigpr;
